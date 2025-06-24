@@ -1,0 +1,20 @@
+# Go binaries
+*.exe
+*.out
+*.test
+
+# Go build artifacts
+*.log
+*.db
+*.sqlite
+taskforge.db
+
+# Dependency management (if using vendoring)
+vendor/
+
+# IDE/editor configs
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
